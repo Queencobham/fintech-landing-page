@@ -12,7 +12,7 @@ body{
   font-family: 'Montagu Slab', serif;
 }
 
-nav ul li a:hover, .text a:hover, .safety-heading a:hover{
+ul li a:hover, .text a:hover, .safety-heading a:hover{
   border-bottom: 4px solid #e5f54c;
 }
 
