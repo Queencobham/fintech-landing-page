@@ -206,6 +206,7 @@ nav{
 
 .text a{
   background-color: #f6f6f6;
+  color: #353535;
   padding: 8px 15px;
   border-radius: 12px;
   text-transform: capitalize;
