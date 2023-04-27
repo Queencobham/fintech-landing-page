@@ -27,9 +27,9 @@ nav{
   width: 100%;
 }
 
- .logo h2{
-    font-size: 27px;
-  }
+.logo h2{
+  font-size: 27px;
+}
 
 .hero{
   background-color: #e5f54c;
@@ -415,9 +415,6 @@ nav{
     text-align: center;
     padding: 12px 22px;
     border-radius: 12px;
-    transition-property: font-size;
-    transition-duration: 4s;
-    transition-delay: 2s;
   }
   
   .btn .login{
@@ -555,7 +552,7 @@ nav{
   
   .footer{
     justify-content: center;
-    gap: 6em;
+    gap: 10em;
   }
 }
 
@@ -593,6 +590,7 @@ nav{
     align-items: center;
     width: 93%;
     gap: 1.5em;
+    border-radius: 30px;
   }
   
   .safety-cards{
@@ -648,6 +646,7 @@ nav{
     display: flex;
     margin-top: 80px;
     width: 90%;
+    border-radius: 30px;
     justify-content: space-around;
     align-items: center;
     box-shadow: 0 59px 51px -34px rgba(35, 36, 22, 0.3);
