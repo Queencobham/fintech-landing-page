@@ -12,6 +12,10 @@ body{
   font-family: 'Montagu Slab', serif;
 }
 
+nav ul li a:hover, .text a:hover, .safety-heading a:hover{
+  border-bottom: 4px solid #e5f54c;
+}
+
 nav{
   display: none;
 }
@@ -410,6 +414,9 @@ nav{
     text-align: center;
     padding: 12px 22px;
     border-radius: 12px;
+    transition-property: font-size;
+    transition-duration: 4s;
+    transition-delay: 2s;
   }
   
   .btn .login{
